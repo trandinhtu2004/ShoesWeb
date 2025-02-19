@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/controller/AddToCartServlet.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/controller/CheckOutServlet.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/web/addproduct.jsp</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/controller/CancelOrderServlet.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/web/cart.jsp</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/controller/QuantityIncDecServlet.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/controller/PaginationServlet.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/controller/LoginServlet.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/controller/UpdateUserServlet.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/controller/AddProductServlet.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/dal/OrderDetailDAO.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/dal/UserDAO.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/controller/QuantityServlet.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/controller/AddUserServlet.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/src/java/dal/DBContext.java</file>
+            <file>file:/F:/prj301/Project%20ShoeWeb/ShoesWeb/ShoesWeb/web/product.jsp</file>
+        </group>
+    </open-files>
+</project-private>
